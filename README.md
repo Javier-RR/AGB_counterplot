@@ -1,9 +1,8 @@
 # CounterPlot | Kuamut Rainforest Conservation Project
 <img src="counterplot-hex.png" align="right" height="225" alt="counterplot hex sticker"/>
 
-Site selection for a second wave of forest biomass plots in the Kuamut IFM
-project (Sabah, Malaysia, ~84,000 ha). For every existing plot the code places a
-new 30 m-diameter plot 100–300 m away in a **contrasting** biomass condition, so
+Site selection for a second wave of forest biomass plots in the Kuamut Rainforest Conservation project | IFM (Sabah, Malaysia, ~84,000 ha). For every existing plot the code places a
+new 30 m-radius plot 100–300 m away in a **contrasting** biomass condition, so
 that each pair samples two ends of the local aboveground carbon density (ACD)
 range under near-identical conditions of access, terrain and acquisition date.
 
