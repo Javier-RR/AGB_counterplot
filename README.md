@@ -1,4 +1,5 @@
-# Kuamut IFM — contrasting paired plots
+# CounterPlot | Kuamut Rainforest Conservation Project
+<img src="counterplot-hex.png" align="right" height="225" alt="counterplot hex sticker"/>
 
 Site selection for a second wave of forest biomass plots in the Kuamut IFM
 project (Sabah, Malaysia, ~84,000 ha). For every existing plot the code places a
